@@ -48,18 +48,12 @@ background: #3aaf9f;
 #container {
 background: #ededed;
 border-radius: 10px;
-height: 550px;
+height: 500px;
 margin: 5% auto;
 overflow: hidden;
 width: 1000px;
 }
-.social-login {
-border: 1px solid #ccc;
-border-radius: 50px;
-height: 15px;
-padding: 10px;
-width: 15px;
-}
+
 #login {
 background: #fff;
 float: left;
@@ -148,10 +142,4 @@ width: 35%;
 #credit {
 color: #999;
 font-size: 14px;
-}
-#info {
-/* background: #eaeaea; */
-color: #555;
-padding: 20px;
-text-align: center;
 }
